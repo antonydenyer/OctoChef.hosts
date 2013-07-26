@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>OctoChef.hosts</id>
+    <version>1.0.0</version>
+    <authors>Antony Denyer</authors>
+    <owners>Antony Denyer</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Hosts configuration files for windows boxes</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+  </metadata>
+</package>

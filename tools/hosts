@@ -1,0 +1,17 @@
+127.0.0.1       localhost
+::1             localhost
+
+
+# dev
+10.10.0.1 		web01.dev.company.com
+10.10.0.2 		web02.dev.company.com
+
+
+# test
+10.20.0.1 		web01.test.company.com
+10.20.0.2 		web02.test.company.com
+
+
+# prod
+10.30.0.1 		web01.prod.company.com
+10.30.0.2 		web02.prod.company.com
